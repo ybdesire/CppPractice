@@ -8,3 +8,13 @@ The cpp code pieces for some practice.
 * [leetcode](leetcode/)
 * [mem_share](mem_share/Readme.md)
 * [fork and pthread](pthread_fork/fork_thread_share_global_var/readme.md)
+
+
+# c program
+* [compile the program with `math.h`](cprog/compile_math/readme.md)
+
+
+
+
+
+
