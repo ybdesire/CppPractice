@@ -14,7 +14,9 @@ The cpp code pieces for some practice.
 * [compile the program with `math.h`](cprog/compile_math/readme.md)
 
 
+# linux shell
 
+* [cpp read txt input by cin, get cpp main return value, then shell if-else](shell_check_cpp_output/run.sh)
 
 
 
