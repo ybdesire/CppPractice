@@ -12,6 +12,7 @@ The cpp code pieces for some practice.
 
 # c program
 * [compile the program with `math.h`](cprog/compile_math/readme.md)
+* [input 2 values as array](cprog/c_input_2_values_as_array)
 
 
 # linux shell
