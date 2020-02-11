@@ -21,6 +21,7 @@ The cpp code pieces for some practice.
 
 ## 3.1 basic
 * [string](cpp_basic/string/main.cpp)
+* [template : pair example](cpp_basic/template_create_pair_tmp/main.cpp)
 * [constructor & copy-ctor](cpp_basic/ctor_copyctor/main.cpp)
 * [operator overloading](cpp_basic/operator_overloading_basic/main.cpp)
 * [cout overloading, ostream overloading](cpp_basic/cout_overloading/main.cpp)
