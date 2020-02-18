@@ -21,6 +21,7 @@ The cpp code pieces for some practice.
 
 ## 3.1 basic
 * [constructor & copy-ctor](cpp_basic/ctor_copyctor/main.cpp)
+* [operator overloading](cpp_basic/operator_overloading_basic/main.cpp)
 
 
 # 4. linux shell
