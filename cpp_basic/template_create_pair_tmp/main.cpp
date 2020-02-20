@@ -2,6 +2,7 @@
 
 using namespace std; 
 
+//template struct
 template<typename T1, typename T2>
 struct mypair
 {
