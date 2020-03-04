@@ -26,6 +26,7 @@ The cpp code pieces for some practice.
 * [operator overloading](cpp_basic/operator_overloading_basic/main.cpp)
 * [cout overloading, ostream overloading](cpp_basic/cout_overloading/main.cpp)
 * [object slice problem](cpp_basic/object_slice/main.cpp)
+* [constructor & destructor order](cpp_basic/ctor_dtor_order/main.cpp)
 
 
 ## 3.2 stl
