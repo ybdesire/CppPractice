@@ -27,11 +27,14 @@ The cpp code pieces for some practice.
 * [cout overloading, ostream overloading](cpp_basic/cout_overloading/main.cpp)
 * [object slice problem](cpp_basic/object_slice/main.cpp)
 * [constructor & destructor order](cpp_basic/ctor_dtor_order/main.cpp)
+* [destructor with virtual](cpp_basic/destructor_virtual/main.cpp)
+* [cpp string split](cpp_basic/string_split/main.cpp)
 
 
 ## 3.2 stl
 * [vector basic](stl/vector/main.cpp)
 * [vector iterator](stl/vector_iterator/main.cpp)
+* [vector compare](stl/vector_equal/main.cpp)
 
 
 # 4. linux shell
