@@ -35,6 +35,9 @@ The cpp code pieces for some practice.
 * [vector basic](stl/vector/main.cpp)
 * [vector iterator](stl/vector_iterator/main.cpp)
 * [vector compare](stl/vector_equal/main.cpp)
+* [map](stl/map/main.cpp)
+* [set](stl/set/main.cpp)
+* [stack](stl/stack/main.cpp)
 
 
 # 4. linux shell
