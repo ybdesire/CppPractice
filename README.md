@@ -29,6 +29,7 @@ The cpp code pieces for some practice.
 * [object slice problem](cpp_basic/object_slice/main.cpp)
 * [constructor & destructor order](cpp_basic/ctor_dtor_order/main.cpp)
 * [destructor with virtual](cpp_basic/destructor_virtual/main.cpp)
+* [string compare]( cpp_basic/string_cmp/main.cpp)
 * [cpp string split](cpp_basic/string_split/main.cpp)
 
 
