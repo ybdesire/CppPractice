@@ -32,6 +32,7 @@ The cpp code pieces for some practice.
 * [string compare]( cpp_basic/string_cmp/main.cpp)
 * [cpp string split](cpp_basic/string_split/main.cpp)
 * [string iteration by char](cpp_basic/string_iteration_char/main.cpp)
+* [string format by snprintf](cpp_basic/string_format/main.cpp)
 
 
 ## 3.2 stl
