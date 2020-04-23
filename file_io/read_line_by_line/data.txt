@@ -1,0 +1,7 @@
+hello
+next
+line
+is
+not
+blank
+
