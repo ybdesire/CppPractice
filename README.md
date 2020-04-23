@@ -43,6 +43,10 @@ The cpp code pieces for some practice.
 * [set](stl/set/main.cpp)
 * [stack](stl/stack/main.cpp)
 
+## 3.3 file operation
+* [read file line by line](cpp_basic/file_io/read_line_by_line)
+* [write file](cpp_basic/file_io/write_line)
+
 
 # 4. linux shell
 
