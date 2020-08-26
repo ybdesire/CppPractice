@@ -52,5 +52,5 @@ The cpp code pieces for some practice.
 
 * [cpp read txt input by cin, get cpp main return value, then shell if-else](shell_script/shell_check_cpp_output/run.sh)
 * [compare two files content](shell_script/shell_cmp_two_files/run.sh)
-
+* [kill all processes by py name](shell_script/basic_linux_cmd/kill_all_py_process_by_name.md)
 
