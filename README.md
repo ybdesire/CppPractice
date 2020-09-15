@@ -54,3 +54,9 @@ The cpp code pieces for some practice.
 * [compare two files content](shell_script/shell_cmp_two_files/run.sh)
 * [kill all processes by py name](shell_script/basic_linux_cmd/kill_all_py_process_by_name.md)
 
+# 5. makefile
+* [gcc basic cmd](makefile/gcc_basic/gcc_compile_cmd.md)
+* [slide for makefile](makefile/make.pdf)
+* [basic makefile](makefile/makefile01)
+* [makefile with CFLAGS](makefile/makefile02)
+* [makefile with preprocessor](makefile/makefile03)
