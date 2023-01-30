@@ -54,6 +54,7 @@ The cpp code pieces for some practice.
 * [compare two files content](shell_script/shell_cmp_two_files/run.sh)
 * [kill all processes by py name](shell_script/basic_linux_cmd/kill_all_py_process_by_name.md)
 * [count code lines](shell_script/useful_cmd_line.md)
+* [test disk speed](shell_script/useful_cmd_line.md)
 
 
 # 5. makefile
