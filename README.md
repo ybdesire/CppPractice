@@ -55,7 +55,7 @@ The cpp code pieces for some practice.
 * [kill all processes by py name](shell_script/basic_linux_cmd/kill_all_py_process_by_name.md)
 * [count code lines](shell_script/useful_cmd_line.md)
 * [test disk speed](shell_script/useful_cmd_line.md)
-
+* [get average file size at directory](shell_script/basic_linux_cmd/ave_file_size.md)
 
 # 5. makefile
 * [gcc basic cmd](makefile/gcc_basic/gcc_compile_cmd.md)
